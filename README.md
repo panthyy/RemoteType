@@ -1,3 +1,5 @@
+![](https://media.tenor.com/dt1etVruHGAAAAAj/rylsee-tooshytorap.gif)
+---
 # RemoteType
 
 RemoteType is a Language Service Plugin for TypeScript that provides advanced features like API-driven auto-completion. This powerful plugin is designed to simplify your workflow and make it easier to work with complex data structures, particularly for projects that require a CMS-powered client interface.
